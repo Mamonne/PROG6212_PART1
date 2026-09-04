@@ -30,3 +30,10 @@ A Participant is the end user attending events. Participants can:
 ## Database Design
 
 The database schema is modeled around 7 entities: `Users`, `Events`, `Categories`, `Routes`, `WeatherInfo`, `Enrolments`, and `Results`. Full details, including primary keys, foreign keys, and cardinality, are documented in the ERD below.
+
+
+
+
+
+
+<img width="1857" height="930" alt="image" src="https://github.com/user-attachments/assets/a1a1f394-480f-42b1-80d2-5ba93bd4b791" />
